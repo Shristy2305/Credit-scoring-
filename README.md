@@ -115,3 +115,4 @@ npm run dev
 ```
 
 Both servers run independently with automatic reconnection. When the Python server is offline, the frontend seamlessly uses its calibrated in-browser scoring engine with zero downtime.
+
